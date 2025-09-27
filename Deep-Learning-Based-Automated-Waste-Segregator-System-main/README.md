@@ -64,8 +64,8 @@ This project is based on our paper:
 
 **Team Members:**
 - Aman Reddy J
-- Raj Dhanush M 
--Ditheswar Sabbu
+- Raj Dhanush M
+- Ditheswar Sabbu
 ---
 
 ## 📌 Note
