@@ -63,7 +63,8 @@ This project is based on our paper:
 **RoboSeg: Automated Hospital Waste Segregation System**
 
 **Team Members:**
-- Aman Reddy J  
+- Aman Reddy J
+- Raj Dhanush M 
 -Ditheswar Sabbu
 ---
 
@@ -78,4 +79,5 @@ The YOLO and ResNet-50 models are uploaded **separately** so that they can be us
 If you have questions, suggestions, or want to collaborate:
 
 **amanreddyjukonti@gmail.com**,
+**rajdhanushmanukonda@gmail.com**,
 **dithu2005@gmail.com**
